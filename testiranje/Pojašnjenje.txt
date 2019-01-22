@@ -1,0 +1,7 @@
+1. Test je zamišljen kao potpuno nova registracija korisnika
+2. Test je zamišljen kao registracija korisnika, ali sa vec prethodno unešenim mailom. ( test je negativan jer test treba izbaciti error, kako bih zadovoljio ) 
+3. Test je zamišljen kao prijava korisnika
+4. Test je zamišljen kao prijava korisnika sa pogrešnim mailom ( test je negativan )
+5. Test je zamišljen kao prijava korisnika sa pogrešnim passwordom ( test je negativan )
+
+Svi testovi su zadovoljili.
